@@ -1,4 +1,3 @@
 # password_manager
 Safeguard your digital assets with my open-source password manager. Amidst numerous options, trust remains elusive. However, my project prioritizes transparency and security, empowering you to take control of your passwords. Rest assured, your sensitive data is protected and accessible solely to you. Secure your digital realm confidently with my open-source solution.<br>
 Your data is safeguarded through a multi-layered security process. Upon logging in, you'll need to input your username, password, and a one-time password (OTP). Meanwhile, a dynamic, colorful message continuously scrolls from left to right, appearing prominently at both the top and bottom of the website. This message serves as a reminder not to disclose your login credentials and emphasizes the importance of verifying the presence of a padlock symbol next to the website's URL, ensuring a secure HTTPS connection. <br>
-c
